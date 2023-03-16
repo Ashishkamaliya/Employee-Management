@@ -9,8 +9,12 @@
 # Features :
 * Splash Screen :
 | Loading on splash screen
+![SplashScreen](https://user-images.githubusercontent.com/118722790/225523800-108a88bd-597f-4b0a-b22b-160a4513c1bf.png)
+
 * Login :
 | Authorized person can login to the application after checking username & password through the sql server..
+
+
 * Employee :
 | In this navigation page admin can add employees and also can update employees information..
 * Departments :
