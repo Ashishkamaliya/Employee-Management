@@ -21,6 +21,8 @@
 
 * Departments :
 | In this navigation page admin can add departments,update it and also can delete departments which make effect on employees departments..
+![Department](https://user-images.githubusercontent.com/118722790/225524409-f203b800-fa19-4fef-9456-e8c43cbee18c.png)
+
 * Salaries :
 | In this navigation page admin can add or mark as salary paid of employees..
 * Logout :
