@@ -38,4 +38,4 @@ this is required at login time..
 
 * Logout : | admin can also logout by clicking on Logout button from navigation bar..
 
-#-: Thank You :-
+# Thank You :)
