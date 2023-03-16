@@ -2,9 +2,9 @@
   Employee Management project based on C#
 
 * Requirements :
-  Windows Operating System
-  Microsoft Sql Server
-  RAM(4 GB or Higher)
+  ->Windows Operating System
+  ->Microsoft Sql Server
+  ->RAM(4 GB or Higher)
 
 # Features :
 * Splash Screen
