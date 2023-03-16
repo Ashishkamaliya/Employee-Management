@@ -2,9 +2,12 @@
   Employee Management project based on C#
 
 * Requirements :
-  ->Windows Operating System
-  ->Microsoft Sql Server
-  ->RAM(4 GB or Higher)
+
+->Windows Operating System
+
+->Microsoft Sql Server
+
+->RAM(4 GB or Higher)
   
 # Credentials : 
 - Username : Ashish@123
@@ -35,4 +38,4 @@ this is required at login time..
 
 * Logout : | admin can also logout by clicking on Logout button from navigation bar..
 
---: Thank You :-
+#-: Thank You :-
