@@ -13,10 +13,12 @@
 
 * Login :
 | Authorized person can login to the application after checking username & password through the sql server..
-
+![Login](https://user-images.githubusercontent.com/118722790/225524000-3e2d1c72-2507-4ecc-9fa2-ca18526643f9.png)
 
 * Employee :
 | In this navigation page admin can add employees and also can update employees information..
+
+
 * Departments :
 | In this navigation page admin can add departments,update it and also can delete departments which make effect on employees departments..
 * Salaries :
