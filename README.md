@@ -17,7 +17,7 @@
 
 * Employee :
 | In this navigation page admin can add employees and also can update employees information..
-
+![Employee](https://user-images.githubusercontent.com/118722790/225524180-3181f2f0-d5a3-4f67-835c-3596637e565a.png)
 
 * Departments :
 | In this navigation page admin can add departments,update it and also can delete departments which make effect on employees departments..
