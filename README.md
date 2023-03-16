@@ -5,6 +5,12 @@
   ->Windows Operating System
   ->Microsoft Sql Server
   ->RAM(4 GB or Higher)
+  
+# Credentials : 
+- Username : Ashish@123
+- Password : Ashish@123
+
+this is required at login time..
 
 # Features :
 * Splash Screen :
@@ -25,4 +31,8 @@
 
 * Salaries :
 | In this navigation page admin can add or mark as salary paid of employees..
-* Logout :
+![Salaries](https://user-images.githubusercontent.com/118722790/225524596-fc7d3b6c-1124-475e-a74c-19f5da8bf4df.png)
+
+* Logout : | admin can also logout by clicking on Logout button from navigation bar..
+
+--: Thank You :-
