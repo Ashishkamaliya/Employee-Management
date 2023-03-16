@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EmployeeDBDataSet" targetNamespace="http://tempuri.org/EmployeeDBDataSet.xsd" xmlns:mstns="http://tempuri.org/EmployeeDBDataSet.xsd" xmlns="http://tempuri.org/EmployeeDBDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="EmployeeDBConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="EmployeeDBConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Employee_Management.Properties.Settings.GlobalReference.Default.EmployeeDBConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="EmployeeTblTableAdapter" GeneratorDataComponentClassName="EmployeeTblTableAdapter" Name="EmployeeTbl" UserDataComponentName="EmployeeTblTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="EmployeeDBConnectionString (Settings)" DbObjectName="dbo.EmployeeTbl" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT EmpDep FROM dbo.EmployeeTbl</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EmpDep" DataSetColumn="EmpDep" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EmployeeDBDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="EmployeeDBDataSet" msprop:Generator_UserDSName="EmployeeDBDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EmployeeTbl" msprop:Generator_TableClassName="EmployeeTblDataTable" msprop:Generator_TableVarName="tableEmployeeTbl" msprop:Generator_TablePropName="EmployeeTbl" msprop:Generator_RowDeletingName="EmployeeTblRowDeleting" msprop:Generator_RowChangingName="EmployeeTblRowChanging" msprop:Generator_RowEvHandlerName="EmployeeTblRowChangeEventHandler" msprop:Generator_RowDeletedName="EmployeeTblRowDeleted" msprop:Generator_UserTableName="EmployeeTbl" msprop:Generator_RowChangedName="EmployeeTblRowChanged" msprop:Generator_RowEvArgName="EmployeeTblRowChangeEvent" msprop:Generator_RowClassName="EmployeeTblRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EmpDep" msprop:Generator_ColumnVarNameInTable="columnEmpDep" msprop:Generator_ColumnPropNameInRow="EmpDep" msprop:Generator_ColumnPropNameInTable="EmpDepColumn" msprop:Generator_UserColumnName="EmpDep" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

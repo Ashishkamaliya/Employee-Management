@@ -1,0 +1,35 @@
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\bin\Debug\Employee Management.exe
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\bin\Debug\Employee Management.pdb
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Properties.Resources.resources
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee Management.csproj.GenerateResource.Cache
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee Management.exe
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee Management.pdb
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Departments.resources
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Login.resources
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Employees.resources
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Salaries.resources
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee Management.csprojResolveAssemblyReference.cache
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\bin\Debug\EmployeeDB.mdf
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\bin\Debug\EmployeeDB_log.ldf
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\bin\Debug\Employee Management.exe.config
+C:\Users\Ashish\OneDrive\Desktop\c#\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Dashboard.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\bin\Debug\Employee Management.exe.config
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee Management.exe
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee Management.pdb
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\bin\Debug\EmployeeDB.mdf
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\bin\Debug\EmployeeDB_log.ldf
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\bin\Debug\Employee Management.exe
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\bin\Debug\Employee Management.pdb
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee Management.csprojResolveAssemblyReference.cache
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Dashboard.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Departments.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Login.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Employees.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Properties.Resources.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.Salaries.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee_Management.SplashScreen.resources
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee Management.csproj.GenerateResource.Cache
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\bin\Debug\Employee Management.exe.manifest
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\bin\Debug\Employee Management.application
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee Management.exe.manifest
+C:\Users\Ashish\OneDrive\Desktop\Employee Management\Employee Management\obj\x86\Debug\Employee Management.application
